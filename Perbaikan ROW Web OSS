@@ -1,23 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-12-31T12:11:47.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="YPa5OzqM8-cz9-2rikN2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-31T12:13:21.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="cR1HS8vc8NBdSpIzS0XN" type="github">
   <diagram id="QQOmcfeoZlkMTNNpHTeB" name="Halaman-1">
-    <mxGraphModel dx="1035" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-1" target="OTXVN0l4V62tKMDQv-Fd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="10" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-2" target="OTXVN0l4V62tKMDQv-Fd-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-2" value="Select similar pada garis ROW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-3" target="OTXVN0l4V62tKMDQv-Fd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-3" value="Data Plan CAD &lt;br&gt;RTA tiap Ruas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-4" target="OTXVN0l4V62tKMDQv-Fd-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-4" value="Jalankan Commad MAPEXPORT dan pilih Polyline untuk export fitur menjadi SHP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-6" target="OTXVN0l4V62tKMDQv-Fd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-6" value="Convert feature to polygon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-7" target="OTXVN0l4V62tKMDQv-Fd-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-7" value="ROW Ruas.SHP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="750" width="120" height="60" as="geometry" />
@@ -25,14 +43,30 @@
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-8" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="840" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-9" target="OTXVN0l4V62tKMDQv-Fd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-9" value="Konversi sistem koordinat WGS 1984 Mercator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-10" target="OTXVN0l4V62tKMDQv-Fd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-10" target="OTXVN0l4V62tKMDQv-Fd-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-10" value="Geometri&lt;br&gt;Shapefle Sesuai" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="610" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="OTXVN0l4V62tKMDQv-Fd-11" value="Clean SHP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="640" width="140" height="70" as="geometry" />
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-11" target="OTXVN0l4V62tKMDQv-Fd-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTXVN0l4V62tKMDQv-Fd-11" value="Repair Geometry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="645" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
