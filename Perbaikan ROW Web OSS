@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-01T18:18:57.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="u4wxIVzdw0sgs1CwBDOz" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-01T18:21:02.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4sfGPt9PakkbRQfIgrgT" version="20.7.4" type="github">
   <diagram id="QQOmcfeoZlkMTNNpHTeB" name="Halaman-1">
-    <mxGraphModel dx="1467" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-7" value="ROW Ruas.SHP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-8" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="405" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7rFh0DXflxB2sdGaknyW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-9" target="OTXVN0l4V62tKMDQv-Fd-10">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="7rFh0DXflxB2sdGaknyW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-10" target="OTXVN0l4V62tKMDQv-Fd-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rFh0DXflxB2sdGaknyW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-10" target="OTXVN0l4V62tKMDQv-Fd-7">
+        <mxCell id="7rFh0DXflxB2sdGaknyW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="7rFh0DXflxB2sdGaknyW-16" target="7rFh0DXflxB2sdGaknyW-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-10" value="Geometri&lt;br&gt;Shapefle Sesuai" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -73,8 +73,20 @@
         <mxCell id="7rFh0DXflxB2sdGaknyW-15" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="270" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7rFh0DXflxB2sdGaknyW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rFh0DXflxB2sdGaknyW-19" target="OTXVN0l4V62tKMDQv-Fd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rFh0DXflxB2sdGaknyW-19" value="Pengisian Attribut Luas ROW dengan Calculate Field" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="7rFh0DXflxB2sdGaknyW-16" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="650" y="190" width="40" height="30" as="geometry" />
+          <mxGeometry x="615" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7rFh0DXflxB2sdGaknyW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="OTXVN0l4V62tKMDQv-Fd-10" target="7rFh0DXflxB2sdGaknyW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="204.9999999999999" as="sourcePoint" />
+            <mxPoint x="700" y="204.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
