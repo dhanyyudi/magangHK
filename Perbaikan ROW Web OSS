@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-01T18:17:14.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="J7-YbmTao_IimMqi9JOE" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-01T18:18:57.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="u4wxIVzdw0sgs1CwBDOz" version="20.7.4" type="github">
   <diagram id="QQOmcfeoZlkMTNNpHTeB" name="Halaman-1">
-    <mxGraphModel dx="1257" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,13 +62,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTXVN0l4V62tKMDQv-Fd-11" value="Repair Geometry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="475" y="305" width="140" height="40" as="geometry" />
+          <mxGeometry x="475" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7rFh0DXflxB2sdGaknyW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rFh0DXflxB2sdGaknyW-7" target="OTXVN0l4V62tKMDQv-Fd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7rFh0DXflxB2sdGaknyW-7" value="Pengecekan Fitur Spasial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="140" height="70" as="geometry" />
+          <mxGeometry x="280" y="305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7rFh0DXflxB2sdGaknyW-15" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7rFh0DXflxB2sdGaknyW-16" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
