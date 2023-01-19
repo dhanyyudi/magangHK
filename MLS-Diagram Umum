@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T17:20:59.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8GcnSW4QR1x4lSHx7Bzo" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T15:57:56.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6Kide2s3NZmZRIqfnT-g" version="20.8.5" type="github">
   <diagram id="_HYJ4h4OUS0Mh4PiZZ8j" name="Halaman-1">
-    <mxGraphModel dx="2514" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,14 +97,6 @@
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-10" value="Report Trajectory (.html)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="100" y="560" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-11" target="DvfG_Dj-h1EKQ6LecDhZ-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="690" />
-              <mxPoint x="350" y="40" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-11" target="DvfG_Dj-h1EKQ6LecDhZ-9">
           <mxGeometry relative="1" as="geometry" />
