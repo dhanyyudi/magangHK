@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T16:13:46.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rCfiKSE1wKAd6HDk4CSm" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T16:16:01.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="70jU10a7eZou8_ajG0Tm" version="20.8.5" type="github">
   <diagram id="_HYJ4h4OUS0Mh4PiZZ8j" name="Halaman-1">
-    <mxGraphModel dx="1760" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,17 +101,45 @@
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-11" target="DvfG_Dj-h1EKQ6LecDhZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-11" target="DvfG_Dj-h1EKQ6LecDhZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-11" value="Hasil QC &lt;br&gt;sesuai &lt;br&gt;standar?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="299" y="630" width="106" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-12" target="DvfG_Dj-h1EKQ6LecDhZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-12" target="DvfG_Dj-h1EKQ6LecDhZ-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="820" />
+              <mxPoint x="460" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-12" value="Pengolahan Data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="292" y="760" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-13" target="DvfG_Dj-h1EKQ6LecDhZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-13" value="Extract Scanfiles &amp;amp; Image" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="920" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-14" target="DvfG_Dj-h1EKQ6LecDhZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-14" value="Georeference Point Cloud" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="1000" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-15" target="DvfG_Dj-h1EKQ6LecDhZ-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1140" />
+              <mxPoint x="360" y="1140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-15" value="Multipass Adjustment" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="1080" width="120" height="50" as="geometry" />
@@ -124,6 +152,9 @@
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-29" value="Pengolahan Trajectory" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-30" target="DvfG_Dj-h1EKQ6LecDhZ-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-30" value="Pengolahan Laser Scaner" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="845" width="120" height="50" as="geometry" />
@@ -143,11 +174,20 @@
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-35" value="Georeferenced Trajectory&lt;br&gt;&amp;nbsp;(.cts, .proj)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-45" target="DvfG_Dj-h1EKQ6LecDhZ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-45" value="Prosess QC Data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="300" y="1160" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-46" target="DvfG_Dj-h1EKQ6LecDhZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-46" value="Proses Adjustment" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="299" y="1240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-47" target="DvfG_Dj-h1EKQ6LecDhZ-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-47" value="Updated Trajectory &lt;br&gt;&amp;amp; Georeferensi &lt;br&gt;Point Cloud" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="286" y="1320" width="146" height="70" as="geometry" />
@@ -159,6 +199,9 @@
               <mxPoint x="230" y="1185" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="DvfG_Dj-h1EKQ6LecDhZ-48" target="DvfG_Dj-h1EKQ6LecDhZ-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DvfG_Dj-h1EKQ6LecDhZ-48" value="Hasil QC &lt;br&gt;sesuai &lt;br&gt;standar?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="304" y="1420" width="106" height="100" as="geometry" />
